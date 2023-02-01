@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307663659804",
+    "firebase_url": "https://bvpsmc.firebaseio.com",
+    "project_id": "bvpsmc",
+    "storage_bucket": "bvpsmc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307663659804:android:dc64c4015110f118cc90d9",
+        "android_client_info": {
+          "package_name": "com.example.search_my_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307663659804-p71omm8gnbf15tegeb9a3c8ju13oiq8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO2OHdUDPktZ5-aAZNJT1jn4vSPC1_foE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307663659804-p71omm8gnbf15tegeb9a3c8ju13oiq8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
